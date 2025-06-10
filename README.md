@@ -36,7 +36,7 @@ npm run
 ```
 
 ### 🌐 Live Demo
-🔗 Check out the live demo here: flim-stack.netlify.app
+🔗 Check out the live demo here: [flim-stack.netlify.app](https://flim-stack.netlify.app/)
 
 
 
