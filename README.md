@@ -27,9 +27,16 @@ A **React-based IMDB clone** built with **Vite**, **Tailwind CSS**, and **React 
 ### 📦 Installation
 
 Clone the repository and install dependencies:
-
 ```sh
 git clone https://github.com/your-username/imdb-clone.git
 cd imdb-clone/IMDB-clone
 npm install
-npm run dev
+npm run 
+
+```
+
+### 🌐 Live Demo
+🔗 Check out the live demo here: flim-stack.netlify.app
+
+
+
