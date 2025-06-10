@@ -50,27 +50,8 @@ npm run build
 npm run lint
 ```
 
-### Deployment
 
-This project is ready for deployment on [Netlify](https://www.netlify.com/). The [`public/netlify.toml`](IMDB-clone/public/netlify.toml) file handles SPA redirects.
 
-1. Push your code to GitHub.
-2. Connect your repo to Netlify.
-3. Set the build command to `npm run build` and the publish directory to `dist`.
 
-## Project Structure
 
-```
-IMDB-clone/
-  ├── public/
-  ├── src/
-  ├── index.html
-  ├── package.json
-  ├── tailwind.config.js
-  ├── postcss.config.js
-  └── vite.config.js
-```
 
-## License
-
-MIT
